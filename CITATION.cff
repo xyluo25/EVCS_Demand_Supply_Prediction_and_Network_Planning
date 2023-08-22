@@ -1,0 +1,14 @@
+cff-version: 1.0.2
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Luo"
+  given-names: "Xiangyong"
+  orcid: "https://orcid.org/0009-0003-1290-9983"
+- family-names: "Zhou"
+  given-names: "Xuesong Simon"
+  orcid: "https://orcid.org/0000-0002-9963-5369"
+title: "EVCS_Demand_Supply_Prediction_and_Network_Planning"
+version: 1.0.2
+doi: 10.5281/zenodo.8274256
+date-released: 2023-08-22
+url: "https://github.com/xyluo25/EVCS_Demand_Supply_Prediction_and_Network_Planning"
