@@ -5,7 +5,7 @@ Xiangyong Luo, Michael J. Kuby, Yudai Honma, Mouna Kchaou-Boujelben, Xuesong (Si
 
 # ABSTRACT
 
-[This paper offers a strategic approach to Electric
+This paper offers a strategic approach to Electric
 Vehicle (EV) charging network planning, emphasizing the integration of demand
 and supply dynamics via continuous-time fluid queue models and discrete flow
 refueling location modeling, all in the context of innovation diffusion
@@ -25,7 +25,7 @@ for a single region and extendable to multiple regions, thereby addressing a
 gap in the existing literature. Our proposed methodology empowers strategic
 resource planning for EV charging networks over extended timeframes, thus
 aiding the transition towards a more sustainable and efficient transportation
-system.]()
+system.
 
 **Keywords:** Innovation diffusion; Resource planning;
 Network design; Integrated demand and supply model; Continuous-time
